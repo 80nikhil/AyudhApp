@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="darkblue">#2a4e70</color>
+    <color name="yellowish">#f6cc84</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="cry">#3A3939</color>
+    <color name="blue">#078DF6</color>
+    <color name="font_color">#442C2E</color>
+    <color name="primary">#0E7FD8</color>
+    <color name="primaryDark">#047ABA</color>
+    <color name="green">#4F8F04</color>
+    <color name="red">#F82415</color>
+    <color name="dark_red">#CD1D1D</color>
+    <color name="bs_divider_color">#1f000000</color>
+
+
+    <color name="dot_light_screen1">#f98da5</color>
+    <color name="dot_light_screen2">#8cf9eb</color>
+    <color name="dot_light_screen3">#93c6fd</color>
+    <color name="dot_light_screen4">#e4b5fc</color>
+    <color name="yellow">#F57F17</color>
+    <color name="yellow_light">#EBBE20</color>
+    <color name="buttoncolors">#D2B57602</color>
+    <color name="teal">#00695C</color>
+    <color name="light_blue">#039BE5</color>
+    <color name="light_orange">#F04C28</color>
+    <color name="light_red">#F33E3E</color>
+
+    <color name="red200">#F77470</color>
+    <color name="cyan">#0097A7</color>
+
+    <color name="lightgreen">#0AD819</color>
+    <color name="green500">#099313</color>
+    <color name="brown">#B65B29</color>
+    <color name="gray">#A7A7A7</color>
+    <color name="loginBkColor">#f0f0f0</color>
+    <color name="semi_transparent">#66000000</color>
+    <color name="gray_light">#E0E0E0</color>
+    <color name="white_light">#F8F5F5</color>
+    <color name="navi_blue">#000080</color>
+    <color name="blue500">#1e1eff</color>
+    <color name="blue200">#3232A1</color>
+    <color name="present">#8CC43F</color>
+    <color name="half_day">#F5A647</color>
+    <color name="leave">#FF6364</color>
+    <color name="absent">#D4090F</color>
+    <color name="card">#56FF9800</color>
+</resources>

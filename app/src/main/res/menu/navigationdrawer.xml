@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        android:iconTint="@color/font_color"/>
+
+    <item
+        android:id="@+id/mark_attendance"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Mark Attendance"
+        android:iconTint="@color/font_color"/>
+
+    <item
+        android:id="@+id/work_summary"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Work Summary"
+        android:iconTint="@color/font_color"/>
+    <item
+        android:id="@+id/expense"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Fuel Expense"
+        android:iconTint="@color/font_color"/>
+
+    <item
+        android:id="@+id/applyleave"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Apply leave"
+        android:iconTint="@color/font_color"/>
+
+    <item
+        android:id="@+id/changepass"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Change Password"
+        android:iconTint="@color/font_color"/>
+    <item
+        android:id="@+id/aboutus"
+        android:icon="@drawable/baseline_home_24"
+        android:title="About Us"
+        android:iconTint="@color/font_color"/>
+
+    <!--    <item-->
+    <!--        android:id="@+id/map"-->
+    <!--        android:title="Map"-->
+    <!--        android:icon="@drawable/baseline_my_location_24"-->
+    <!--        android:iconTint="@color/font_color"/>-->
+
+
+    <item
+        android:id="@+id/logout"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Logout"
+        android:iconTint="@color/font_color"/>
+
+
+</menu>
